@@ -1,3 +1,0 @@
-hai everyone..
-
-this is my first  readme  file to be created by me...
